@@ -1,0 +1,12 @@
+numpy 
+pandas
+seaborn
+matplotlib
+scikit-learn
+streamlit
+xgboost
+lightgbm
+catboost
+keras
+streamlit
+tree
